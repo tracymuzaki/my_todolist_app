@@ -1,0 +1,11 @@
+*{
+    background:#fff1d0;
+}
+iframe {
+    height: 100vh;
+} 
+h1 {
+    text-align: center;
+    color: maroon;
+    font-weight: 600;
+}
